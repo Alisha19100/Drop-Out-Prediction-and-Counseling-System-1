@@ -303,5 +303,5 @@ For issues or questions:
 - Multi-language support
 
 ---
-
+Deployed project link: https://drop-shield.streamlit.app
 **Built with ❤️ using Streamlit, Flask, and Scikit-learn**
